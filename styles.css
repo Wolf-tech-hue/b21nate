@@ -17,6 +17,7 @@ body {
 	background-image: url(jacinta.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
+        background-position: center;
 }
 
 .instruction{
